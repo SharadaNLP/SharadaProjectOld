@@ -3,6 +3,10 @@ This reposity holds the code to the multiple classifer models trained in the pro
 
  Main Repo -> https://github.com/sud0x00/SharadaProject-Documentation
 
+# Image segmentation repo can be downloaded from here : https://github.com/sud0x00/SharadaProject-Segmentation
+
+ 
+
 Resnet50 model trained for 50 epochs , with Imagenet pretrained weights can be downloaded here :
 
 [ Model Link ](https://drive.google.com/file/d/13OoUbJaizdSv9gMDeucJbBkE5pJGSDn9/view?usp=sharing)
