@@ -27,6 +27,10 @@ Similar Feature Space : Multiple letters share similar background and similar fo
 
 Overfitting & Lack of enough data to train a cnn
 
+# Alternatives already explored :
+
+ 1. Creation of a yolo detection model which detects on a character level -> The yolo model fails miserable due to the extreme number of classes
+ 2. CapsNet -> https://arxiv.org/abs/1710.09829.
 
 # Ways to overcome the above issues 
 
