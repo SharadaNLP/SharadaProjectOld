@@ -34,11 +34,11 @@ Overfitting & Lack of enough data to train a cnn
 
 # Ways to overcome the above issues 
 
-Sequence modelling using CTC :
+1. Sequence modelling using CTC :
 
 Connectionist Temporal Classification(CTC) is an algorithm used to deal with tasks like speech recognition, handwriting recognition etc. where just the input data and the output transcription is available but there are no alignment details provided i.e how a particular region in images for handwriting is aligned to a specific character. Simple heuristics such as giving each character same area won't work since the amount of space each character takes varies in handwriting from person to person and time to time.
 
-Transformer based approach :
+2. Transformer based approach :
 
 https://arxiv.org/abs/2005.13044
 
