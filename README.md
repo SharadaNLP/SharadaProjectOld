@@ -3,7 +3,7 @@ This reposity holds the code to the multiple classifer models trained in the pro
 
  Main Repo -> https://github.com/sud0x00/SharadaProject-Documentation
 
-# Image segmentation repo can be downloaded from here : https://github.com/sud0x00/SharadaProject-Segmentation
+##### Image segmentation repo can be downloaded from here : https://github.com/sud0x00/SharadaProject-Segmentation
 
  
 
